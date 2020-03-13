@@ -1,7 +1,7 @@
 # Advanced_Building_Blocks_Ruby
 The Odin Project - Ruby Programming - Project: Advanced Building Blocks 
 
-Project 1: Bubble Sort
+Project 1: BUBBLE SORT
 ----------------------
 
 Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
