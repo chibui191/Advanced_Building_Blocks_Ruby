@@ -2,6 +2,7 @@
 The Odin Project - Ruby Programming - Project: Advanced Building Blocks 
 
 Project 1: Bubble Sort
+----------------------
 
 Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
 
@@ -15,7 +16,8 @@ Now create a similar method called #bubble_sort_by which sorts an array by accep
     > end
     => ["hi", "hey", "hello"]
   
-Project 2: Enumerable
+Project 2: ENUMERABLE
+---------------------
 
 1. Create a script file to house your methods and run it in IRB to test them later.
 2. Add your new methods onto the existing Enumerable module. Ruby makes this easy for you because any class or module can be added to without trouble … just do something like:
